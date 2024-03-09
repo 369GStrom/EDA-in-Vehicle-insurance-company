@@ -31,7 +31,7 @@ Status : `WIP`
 
 ## Task 4 
 ![image](https://github.com/SridharKadhiri/StockSelectionDashboard/assets/90100318/41af03e4-95ee-46e7-a341-317742a373c2)
-Assigned to : Pruthvi Raj
+Assigned to : Prithvi Raj
 <br>
 Status : `WIP`
 <br><br><br>
